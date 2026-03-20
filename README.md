@@ -11,7 +11,7 @@ I am a Grade 9 student specializing in the intersection of **Information Technol
 ### Focus & Workflow
 * **Methodology:** Execution over perfection; learning by doing.
 * **Core Interests:** AI Integration, Automation Systems, and Structural Logic.
-* **Current Path:** Scaling software tools and exploring hybrid engineering-software workflows.
+* **Current Path:** Actively building skills through hands-on projects, courses, and bootcamps.
 
 ### Technical Stack
 * **Languages:** Python (Primary)
